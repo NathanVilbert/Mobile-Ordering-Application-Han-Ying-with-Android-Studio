@@ -15,6 +15,6 @@ The Han Ying Mobile Ordering Application streamlines the ordering process for cu
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-<img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/Made%20with-grey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
   </a>
 </H3>
